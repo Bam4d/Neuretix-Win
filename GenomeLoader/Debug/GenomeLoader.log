@@ -1,0 +1,55 @@
+﻿Build started 6/17/2012 7:13:02 PM.
+     1>Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\GenomeLoader\GenomeLoader.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\GenomeLoader.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\GenomeLoader.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D MARKUP_STL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClusterMap.cpp ClusterMapLink.cpp GAEngine.cpp Genome.cpp
+         Genome.cpp
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(92): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(111): warning C4101: 'entry' : unreferenced local variable
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(196): warning C4806: '&' : unsafe operation: no value of type 'bool' promoted to type 'DWORD' can equal the given constant
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(250): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(259): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(266): warning C4018: '<' : signed/unsigned mismatch
+         GAEngine.cpp
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(38): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(38): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(38): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(59): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(60): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(141): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(141): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(148): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(154): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(180): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\gaengine.cpp(185): warning C4018: '<' : signed/unsigned mismatch
+         ClusterMapLink.cpp
+         ClusterMap.cpp
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\clustermap.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\clustermap.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(45): warning C4715: 'Genome::SaveGenome' : not all control paths return a value
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\genomeloader\genome.cpp(29): warning C4700: uninitialized local variable 'guuid_s' used
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\GenomeLoader.lib" /NOLOGO Debug\ClusterMap.obj
+         Debug\ClusterMapLink.obj
+         Debug\GAEngine.obj
+         Debug\Genome.obj
+         GenomeLoader.vcxproj -> C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\GenomeLoader.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\GenomeLoader.unsuccessfulbuild".
+         Touching "Debug\GenomeLoader.lastbuildstate".
+     1>Done Building Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\GenomeLoader\GenomeLoader.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.28

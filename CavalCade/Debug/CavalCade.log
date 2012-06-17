@@ -1,0 +1,34 @@
+﻿Build started 6/17/2012 7:20:30 PM.
+     1>Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\CavalCade\CavalCade.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CavalCade.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D MARKUP_STL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CavalcadeMind.cpp
+         CavalcadeMind.cpp
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(152): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(175): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(191): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bam4d\documents\visual studio 2010\projects\neuretixwin\neuretixwin\cavalcade\cavalcademind.cpp(276): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\CavalCade.lib" /NOLOGO Debug\axon.obj
+         Debug\axonList.obj
+         Debug\axon_event.obj
+         Debug\CavalcadeMind.obj
+         Debug\ControlTimer.obj
+         Debug\group.obj
+         Debug\neuron.obj
+         Debug\SaveLoadCNN.obj
+         Debug\TemporalWindow.obj
+         Debug\TimePoint.obj
+         Debug\usleep.obj
+         CavalCade.vcxproj -> C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\CavalCade.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\CavalCade.unsuccessfulbuild".
+         Touching "Debug\CavalCade.lastbuildstate".
+     1>Done Building Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\CavalCade\CavalCade.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.32

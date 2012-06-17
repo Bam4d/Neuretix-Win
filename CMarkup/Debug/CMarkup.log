@@ -1,0 +1,21 @@
+﻿Build started 6/17/2012 7:12:45 PM.
+     1>Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\CMarkup\CMarkup.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\CMarkup.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\CMarkup.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D MARKUP_STL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Markup.cpp
+         Markup.cpp
+         Note: MBCS build (not UTF-8)
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\CMarkup.lib" /NOLOGO Debug\Markup.obj
+         CMarkup.vcxproj -> C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\Debug\CMarkup.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\CMarkup.unsuccessfulbuild".
+         Touching "Debug\CMarkup.lastbuildstate".
+     1>Done Building Project "C:\Users\Bam4d\Documents\Visual Studio 2010\Projects\NeuretixWin\NeuretixWin\CMarkup\CMarkup.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51
